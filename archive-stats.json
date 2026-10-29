@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-24 19:33:37",
+  "archive_root": "/Users/zhaomosheng/Downloads/12f/knowledge-archive",
+  "total_source_files": 3829,
+  "total_messages": 81090,
+  "total_dates": 419,
+  "earliest_date": "2025-04-23",
+  "latest_date": "2026-10-23",
+  "years": {
+    "2025": 208,
+    "2026": 211
+  },
+  "undated_sessions": 59,
+  "undated_messages": 190,
+  "written_files": 419,
+  "preserved_files": 0,
+  "coverage_rate": "100.00%"
+}
